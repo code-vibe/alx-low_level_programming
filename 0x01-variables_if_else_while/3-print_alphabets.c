@@ -7,6 +7,7 @@ int main(void)
 {
 	char c = 'x';
 	char d = 'X';
+
 	while (c <= 'y')
 	{
 		putchar(c);
