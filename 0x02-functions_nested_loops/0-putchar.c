@@ -10,7 +10,7 @@
  */
 int main(void)
 {
-	char c[] = "Makeup";
+	char c[] = "_putchar";
 	int i;
 
 	for (i = 0; i < 6; i++)
