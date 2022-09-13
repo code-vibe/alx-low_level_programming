@@ -4,7 +4,7 @@
  */
 #include "main.h"
 /**
- * 3-islower.c -This program check
+ * islower.c -This program check
  *		if a character is a lowercase
  *		letter from the English alphabet
  * Return: 1 for lowercase, 0 if it's not lowercase
