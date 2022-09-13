@@ -1,5 +1,5 @@
-# Holberton School - 0x02-functions_nested_loops
-Basics of nested loops and 2D loops
+# ALX SCHOOL - 0x02-functions_nested_loops
+Basics of Functions and nested loops
 ## New commands / functions used:
 ``#include``
 ## Helpful Links
@@ -9,7 +9,7 @@ Basics of nested loops and 2D loops
 * [What are Header Files?](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
 
 ## Description of Files
-<h6>0-holberton.c</h6>
+<h6>0-putchar.c</h6>
 Prints ``Holberton`` followed by a new line, and returns 0.
 <h6>1-alphabet.c</h6>
 Prints the lowercase letters of the alphabet followed by a new line.
