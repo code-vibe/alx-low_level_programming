@@ -3,7 +3,7 @@
  * File: 0-putchar.c
  * Auth: Ebenezer Sam-Oladapo
  */
-#include "Makeup.h"
+#include "main.h"
 /**
  * main - This code prints _putchar
  * Return: 0 on success
@@ -20,4 +20,5 @@ int main(void)
 	_putchar('\n);
 	return (0);
 }
+
 
