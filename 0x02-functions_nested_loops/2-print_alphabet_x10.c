@@ -4,9 +4,9 @@
  */
 #include "main.h"
 /**
- * main - This code writes a function 
- * 	that prints 10 times the
- * 	alphabet in lowercase
+ * main - This code writes a function
+ *	that prints 10 times the
+ *	alphabet in lowercase
  * Return: 0 on success
  */
 void print_alphabet_x10(void)
