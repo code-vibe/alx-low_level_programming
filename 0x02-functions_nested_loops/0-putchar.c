@@ -13,7 +13,7 @@ int main(void)
 	char c[] = "Makeup";
 	int i;
 
-	for (i = 0; i < 9; i++)
+	for (i = 0; i < 6; i++)
 	{
 		_putchar(c[i]);
 	}
