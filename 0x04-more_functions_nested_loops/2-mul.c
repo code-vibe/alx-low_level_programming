@@ -1,5 +1,5 @@
 /*
- * File: 2-mul.c 
+ * File: 2-mul.c
  * Auth: Ebenezer Sam-Oladapo
  */
 
