@@ -1,5 +1,5 @@
 /*
- * File: 11-print_to_98.c
+ * File: 1-isdigit.c
  * Auth: Ebenezer Sam-Oladapo
  */
 
