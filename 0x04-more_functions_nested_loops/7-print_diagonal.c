@@ -1,4 +1,4 @@
-/**
+/*
  * File: 7-print_diagonal.c
  * Auth: Ebenezer Sam-Oladapo
  */
