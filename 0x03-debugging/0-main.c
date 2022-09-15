@@ -1,8 +1,5 @@
-/*
- * File: 0-main.c
- * Auth: Ebenezer Sam-Oladapo
- */
 #include "main.h"
+
 /**
   * main - Test function for positive or negative
   * Return: 0
