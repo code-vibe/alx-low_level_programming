@@ -4,32 +4,22 @@
  */
 
 #include "main.h"
-#include "stdio.h"
-
 /**
-* print_array - Print array upto n elements
-* @a: Array to be read from
-* @n: Number of elements to be read
-* Return: Always 0.
+* *_strcpy -  copies the string pointed to by src
+* @dest: char type string
+* @src: char type string
+* Description: Copy the string pointed to by pointer `src` to
+* the buffer pointed to by `dest`
+* Return: Pointer to `dest`
 */
 
-void print_array(int *a, int n)
+char *_strcpy(char *dest, char *src)
 {
-	int i;
+	int i = -1;
 
-	if (n > 0)
-	{
-		for (i = 0 ; n > i; i++)
-		{
-			if (i != n - 1)
-			{
-				printf("%d, ", a[i]);
-			}
-			else
-			{
-				printf("%d", a[i]);
-			}
-		}
-	}
-	printf("\n");
+	do {
+		i++;
+		dest[i] = src[i];
+	} while (src[i] != '\0');
+	return (dest);
 }
