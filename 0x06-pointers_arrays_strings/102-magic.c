@@ -1,8 +1,3 @@
-/*
- * File: 
- * Auth: Ebenezer Sam-Oladapo
- */
-
 #include <stdio.h>
 
 int main(void)
