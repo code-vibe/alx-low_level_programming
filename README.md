@@ -10,6 +10,9 @@ working in the C language. The specific list of projects I have completed so far
 * [0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)
 * [0x02. C - Functions, nested loops](./0x02-functions_nested_loops)
 * [0x03. C - debugging](./0x03-debugging)
+* [0x04. C -more_functions_nested_loops](./0x04-more_functions_nested_loops)
+* [0x05. C -pointers_arrays_strings](./0x05-pointers_arrays_strings)
+* [0x06. C -pointers_arrays_strings](./0x06-pointers_arrays_strings)
 
 
 ## Author: Ebenezer Sam-Oladapo
