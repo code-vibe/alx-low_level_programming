@@ -18,10 +18,10 @@ Write a function that copies memory area.
 Write a function that locates a character in a string.
 <h6>3-strspn.c</h6>
 Write a function that gets the length of a prefix substring.
-<h6>4-isalpha.c</h6>
-Checks for an alphabetic character. Recreation of ``isalpha``
-<h6>5-sign.c</h6>
-Prints the sign of a number
+<h6>4-strpbrk.c</h6>
+Write a function that searches a string for any of a set of bytes.
+<h6>5-strstr.c</h6>
+Write a function that locates a substring.
 <h6>6-abs.c</h6>
 Computes the absolute value of an integer
 <h6>7-print_last_digit.c</h6>
