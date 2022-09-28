@@ -22,17 +22,11 @@ Write a function that gets the length of a prefix substring.
 Write a function that searches a string for any of a set of bytes.
 <h6>5-strstr.c</h6>
 Write a function that locates a substring.
-<h6>6-abs.c</h6>
-Computes the absolute value of an integer
-<h6>7-print_last_digit.c</h6>
-Prints the last digit of a number
-<h6>8-24_hours.c</h6>
-Prints all times from 00:00 to 23:59
-<h6>9-times_table.c</h6>
-Prints the 9 times table, starting with zero
-<h6>10-add.c</h6>
-Adds 2 integers and returns the result
-<h6>11-print_to_98.c</h6>
-Prints all numbers from n to 98
-<h6>100-times_table.c</h6>
-Prints the n times table, starting with zero
+<h6>7-print_chessboard.c</h6>
+Write a function that prints the chessboard.
+<h6>8-print_diagsums.c</h6>
+Write a function that prints the sum of the two diagonals of a square matrix of integers.
+<h6>100-set_string.c</h6>
+Write a function that sets the value of a pointer to a char.
+<h6>101-crackme_password</h6>
+Create a file that contains the password for the crackme2 executable.
