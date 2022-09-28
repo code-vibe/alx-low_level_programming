@@ -1,5 +1,6 @@
 # ALX SCHOOL - 0x07. C - Even more pointers, arrays and strings
-Pointers and Arrays in C.
+
+**Pointers and Arrays in C.**
 
 ## Helpful Links
 * [C - Pointer to Pointer](https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm)
@@ -13,10 +14,10 @@ Pointers and Arrays in C.
 Write a function that fills memory with a constant byte.
 <h6>1-memcpy.c</h6>
 Write a function that copies memory area.
-<h6>2-print_alphabet_x10.c</h6>
-Prints the alphabet ten times, using ``_putchar`` only twice.
-<h6>3-islower.c</h6>
-Checks for a lowercase character. Recreation of ``islower``
+<h6>2-strchr.c</h6>
+Write a function that locates a character in a string.
+<h6>3-strspn.c</h6>
+Write a function that gets the length of a prefix substring.
 <h6>4-isalpha.c</h6>
 Checks for an alphabetic character. Recreation of ``isalpha``
 <h6>5-sign.c</h6>
