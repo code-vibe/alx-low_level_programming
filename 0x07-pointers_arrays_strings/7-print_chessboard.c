@@ -1,5 +1,5 @@
 /*
- * File: 100-atoi.c
+ * File: 7-print_chessboard.c
  * Auth: Ebenezer Sam-Oladapo
  */
 
