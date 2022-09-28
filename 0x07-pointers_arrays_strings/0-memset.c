@@ -1,5 +1,5 @@
 /*
- * File: 100-atoi.c
+ * File: 0-memset.c
  * Auth: Ebenezer Sam-Oladapo
  */
 
