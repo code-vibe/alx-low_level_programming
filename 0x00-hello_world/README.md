@@ -13,7 +13,8 @@ What you should learn from this project:
 * [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
 * [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
 * [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
-
+* [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
+* [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
 ---
 
 ### 0. [Preprocessor](./0-preprocessor)
