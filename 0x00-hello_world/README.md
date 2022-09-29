@@ -13,7 +13,8 @@ What you should learn from this project:
 * [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
 * [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
 * [Betty Coding Style](https://github.com/holbertonschool/Betty/wiki)
-* [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
+* [Hash-bang under the hood](https://twitter.com/unix_byte/status/1024147947393495040?s=21)
+* [](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
 * [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
 ---
 
