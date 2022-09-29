@@ -14,8 +14,7 @@ What you should learn from this project:
 * [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
 * [Betty Coding Style](https://github.com/holbertonschool/Betty/wiki)
 * [Hash-bang under the hood](https://twitter.com/unix_byte/status/1024147947393495040?s=21)
-* [](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
-* [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
+* [Linus Torvalds on C vs. C++](http://harmful.cat-v.org/software/c++/linus)
 ---
 
 ### 0. [Preprocessor](./0-preprocessor)
