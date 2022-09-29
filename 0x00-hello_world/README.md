@@ -9,7 +9,7 @@ What you should learn from this project:
 ## Helpful Links
 * [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 * [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
-* [Multi-dimensional Arrays in C](https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm)
+* [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
 * [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
 
 ---
