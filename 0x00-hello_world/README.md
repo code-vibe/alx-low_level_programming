@@ -11,6 +11,8 @@ What you should learn from this project:
 * [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
 * [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
 * [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
+* [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
+* [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
 
 ---
 
