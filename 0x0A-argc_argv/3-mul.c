@@ -16,14 +16,18 @@
  */
 int main(int argc, char *argv[])
 {
-	if (argc < 2)
-	{
-		printf("Error");
-	}
-	else
-	{
-		printf("%d\n", atoi(argv[1]) * atoi(argv[2]));
-	}
+	int index, multiplication;
 
+	multiplication = 1;
+	if (argc < 3)
+	{
+		printf("Error\n");
+		return(1);
+	}
+	for (index =1; index < argc; index++)
+	{
+		multiplication = multiplication * atoi(argv[index]);
+	}
+	printf("%d\n", multiplication);
 	return (0);
 }
