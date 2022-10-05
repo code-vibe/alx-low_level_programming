@@ -1,4 +1,4 @@
-# ALX SCHOOL - 0x02-functions_nested_loops
+# ALX SCHOOL - 
 Basics of Functions and nested loops
 ## New commands / functions used:
 ``#include``
