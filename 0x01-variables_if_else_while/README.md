@@ -25,8 +25,8 @@ Write a program that prints the alphabet in lowercase, and then in uppercase, fo
 Write a program that prints the alphabet in lowercase, followed by a new line.
 <h6>5-print_numbers.c</h6>
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
-<h6>6-abs.c</h6>
-Computes the absolute value of an integer
+<h6>6-print_numberz.c</h6>
+Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 <h6>7-print_last_digit.c</h6>
 Prints the last digit of a number
 <h6>8-24_hours.c</h6>
