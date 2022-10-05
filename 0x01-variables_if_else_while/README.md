@@ -12,9 +12,7 @@ Logical Operators
 
 
 This program will affect a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.The output of the program should be: Last digit of, followed the number, followed by is, followed by if the number is greater than 5: and is greater than 5, if the number is 0: and is 0, if the number is less than 6 and not 0: and is less than 6 and not 0, followed by a new line
-2-print_alphabet.c
-Prints the alphabet, in lowercase, followed by a new line.
-3-print_alphabets.c
+
 Prints 10 times the alphabet, in lowercase, followed by a new line.
 4-print_alphabt.c
 Prints the alphabet, in lowercase, followed by a new line. Only use putchar(), printf, puts, etc are forbidden. Only use putchar twice.
