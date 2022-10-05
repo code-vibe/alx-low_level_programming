@@ -31,8 +31,8 @@ Write a program that prints all single digit numbers of base 10 starting from 0,
 Write a program that prints the lowercase alphabet in reverse, followed by a new line.
 <h6>8-print_base16.c</h6>
 Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
-<h6>9-times_table.c</h6>
-Prints the 9 times table, starting with zero
+<h6>9-print_comb.c</h6>
+Write a program that prints all possible combinations of single-digit numbers.
 <h6>10-add.c</h6>
 Adds 2 integers and returns the result
 <h6>11-print_to_98.c</h6>
