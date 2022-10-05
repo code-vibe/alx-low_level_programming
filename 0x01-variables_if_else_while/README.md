@@ -27,8 +27,8 @@ Write a program that prints the alphabet in lowercase, followed by a new line.
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 <h6>6-print_numberz.c</h6>
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
-<h6>7-print_last_digit.c</h6>
-Prints the last digit of a number
+<h6>7-print_tebahpla.c</h6>
+Write a program that prints the lowercase alphabet in reverse, followed by a new line.
 <h6>8-24_hours.c</h6>
 Prints all times from 00:00 to 23:59
 <h6>9-times_table.c</h6>
