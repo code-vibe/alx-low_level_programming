@@ -13,8 +13,8 @@ Using If, else and while statement in C programming
 * [While loop](https://www.youtube.com/watch?v=Ju1LYO9pkaI)
 
 ## Description of Files
-<h6>0-putchar.c</h6>
-Write a program that prints _putchar, followed by a new line.
+<h6>0-positive_or_negative.c</h6>
+This program will assign a random number to the variable n each time it is executed
 <h6>1-alphabet.c</h6>
 Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 <h6>2-print_alphabet_x10.c</h6>
