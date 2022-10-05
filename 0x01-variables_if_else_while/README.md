@@ -1,7 +1,6 @@
 # ALX SCHOOL - 0x01. C - Variables, if, else, while
-Basics of Functions and nested loops
-## New commands / functions used:
-``#include``
+Using If, else and while statement in C programming
+
 ## Helpful Links
 * [Nested While Loops youtube](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
 * [Overview of the Anatomy of a Function, Youtube](https://www.youtube.com/watch?v=qMlnFwYdqIw)
