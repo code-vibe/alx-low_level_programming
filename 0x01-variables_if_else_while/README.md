@@ -4,14 +4,6 @@ Basic C Syntax: Variables, loops, conditionals
 
 
 
-Arithmetic Operators
-If statements
-if else statements
-Relational Operators
-Logical Operators
-
-
-
 
 Prints 10 times the alphabet, in lowercase, followed by a new line.
 4-print_alphabt.c
