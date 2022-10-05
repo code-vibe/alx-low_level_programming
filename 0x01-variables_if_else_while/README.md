@@ -33,8 +33,8 @@ Write a program that prints the lowercase alphabet in reverse, followed by a new
 Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 <h6>9-print_comb.c</h6>
 Write a program that prints all possible combinations of single-digit numbers.
-<h6>10-add.c</h6>
-Adds 2 integers and returns the result
+<h6>100-print_comb3.c</h6>
+Write a program that prints all possible different combinations of two digits.
 <h6>11-print_to_98.c</h6>
 Prints all numbers from n to 98
 <h6>100-times_table.c</h6>
