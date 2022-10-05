@@ -6,6 +6,8 @@ Using If, else and while statement in C programming
 * [integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
 * [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
 * [What are Header Files?](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+* [What are Header Files?](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+* * [What are Header Files?](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
 
 ## Description of Files
 <h6>0-putchar.c</h6>
