@@ -3,9 +3,7 @@ Basic C Syntax: Variables, loops, conditionals
 
 
 
-Helpful links
-Keywords and Identifiers
-integers
+
 Arithmetic Operators
 If statements
 if else statements
