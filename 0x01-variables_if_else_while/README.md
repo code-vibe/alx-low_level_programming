@@ -19,8 +19,8 @@ This program will assign a random number to the variable n each time it is execu
 This program will assign a random number to the variable n each time it is executed
 <h6>2-print_alphabet.c</h6>
 Write a program that prints the alphabet in lowercase, followed by a new line.
-<h6>3-islower.c</h6>
-Checks for a lowercase character. Recreation of ``islower``
+<h6>3-print_alphabets.c</h6>
+Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 <h6>4-isalpha.c</h6>
 Checks for an alphabetic character. Recreation of ``isalpha``
 <h6>5-sign.c</h6>
