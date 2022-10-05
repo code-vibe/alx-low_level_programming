@@ -37,15 +37,6 @@ Write a program that prints all possible combinations of single-digit numbers.
 Write a program that prints all possible different combinations of two digits.
 <h6>101-print_comb4.c</h6>
 Write a program that prints all possible different combinations of three digits.
-<h6>100-times_table.c</h6>
-Prints the n times table, starting with zero
-<h6>101-natural.c</h6>
-Computes and prints the sum of all the multiples of 3 or 5 below 1024
-<h6>102-fibonacci.c</h6>
-Prints the first 50 Fibonacci numbers starting with 1 and 2
-<h6>103-fibonacci.c</h6>
-Computes and prints the sum of all even Fibonacci numbers under 4 million.
-<h6>104-fibonacci.c</h6>
-Computes and prints the first 98 Fibonacci numbers
-<h6>105-test.c</h6>
-Computes and prints the first n Fibonacci numbers
+<h6>102-print_comb5.c</h6>
+Write a program that prints all possible combinations of two two-digit numbers.
+
