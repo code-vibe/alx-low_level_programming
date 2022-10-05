@@ -35,8 +35,8 @@ Write a program that prints all the numbers of base 16 in lowercase, followed by
 Write a program that prints all possible combinations of single-digit numbers.
 <h6>100-print_comb3.c</h6>
 Write a program that prints all possible different combinations of two digits.
-<h6>11-print_to_98.c</h6>
-Prints all numbers from n to 98
+<h6>101-print_comb4.c</h6>
+Write a program that prints all possible different combinations of three digits.
 <h6>100-times_table.c</h6>
 Prints the n times table, starting with zero
 <h6>101-natural.c</h6>
