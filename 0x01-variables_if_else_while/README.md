@@ -7,7 +7,7 @@ Using If, else and while statement in C programming
 * [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
 * [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
 * [if…else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
-* [What are Header Files?](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+* [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
 
 ## Description of Files
 <h6>0-putchar.c</h6>
