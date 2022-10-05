@@ -2,7 +2,7 @@
 Using If, else and while statement in C programming
 
 ## Helpful Links
-* [Keywords and identifiers]([https://www.youtube.com/watch?v=Z3iGeQ1gIss](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html))
+* [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
 * [Overview of the Anatomy of a Function, Youtube](https://www.youtube.com/watch?v=qMlnFwYdqIw)
 * [The purpose of a function prototype](http://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
 * [What are Header Files?](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
