@@ -29,8 +29,8 @@ Write a program that prints all single digit numbers of base 10 starting from 0,
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 <h6>7-print_tebahpla.c</h6>
 Write a program that prints the lowercase alphabet in reverse, followed by a new line.
-<h6>8-24_hours.c</h6>
-Prints all times from 00:00 to 23:59
+<h6>8-print_base16.c</h6>
+Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 <h6>9-times_table.c</h6>
 Prints the 9 times table, starting with zero
 <h6>10-add.c</h6>
