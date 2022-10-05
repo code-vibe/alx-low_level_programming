@@ -1,4 +1,4 @@
-# ALX SCHOOL - 
+# ALX SCHOOL - 0x01. C - Variables, if, else, while
 Basics of Functions and nested loops
 ## New commands / functions used:
 ``#include``
