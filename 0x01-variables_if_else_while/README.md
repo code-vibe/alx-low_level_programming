@@ -17,8 +17,8 @@ Using If, else and while statement in C programming
 This program will assign a random number to the variable n each time it is executed
 <h6>1-last_digit.c</h6>
 This program will assign a random number to the variable n each time it is executed
-<h6>2-print_alphabet_x10.c</h6>
-Prints the alphabet ten times, using ``_putchar`` only twice.
+<h6>2-print_alphabet.c</h6>
+Write a program that prints the alphabet in lowercase, followed by a new line.
 <h6>3-islower.c</h6>
 Checks for a lowercase character. Recreation of ``islower``
 <h6>4-isalpha.c</h6>
