@@ -8,7 +8,7 @@ Using If, else and while statement in C programming
 * [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
 * [if…else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
 * [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
-* [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
+* [Logical operators](https://fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/)
 * [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
 * [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
 
