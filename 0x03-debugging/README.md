@@ -28,7 +28,7 @@ What you should learn from this project:
 
 
 ### 3. [ Leap year](./3-print_remaining_days.c)
-* Write a script that compiles a C file and creates an executable named cisfun.
+* This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
 
 
 ### 5. [Hello, printf](./5-printf.c)
