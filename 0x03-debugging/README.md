@@ -34,8 +34,6 @@ What you should learn from this project:
 ### 6. [Size is not grandeur, and territory does not make a nation](./6-size.c)
 * Write a C program that prints the size of various types on the computer it is compiled and run on.
 
-### 7. [What happens when you type gcc main.c](https://medium.com/@antisyllogism/what-happens-when-you-run-gcc-main-c-6c5ee9c51092)
-* Blog
 
 ---
 
