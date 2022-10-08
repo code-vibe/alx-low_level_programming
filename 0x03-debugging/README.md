@@ -15,7 +15,7 @@ What you should learn from this project:
 ---
 
 ### 0. [Multiple mains](./0-main.c)
-* Write a script that runs a C file through the preprocessor and save the result into another file.
+*  Create a file named 0-main.c. This file must test that the function positive_or_negative() gives the correct output when given a case of 0.
 
 ### 1. [Compiler](./1-compiler)
 * Write a script that compiles a C file but does not link.
