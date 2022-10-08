@@ -5,8 +5,8 @@ What you should learn from this project:
 
 * What is debugging
 * What are some methods of debugging manually
-* What is the official Holberton C coding style and how to check your code with betty-style
-
+* How to read the error messages
+* 
 ## Helpful Links
 * [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 * [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
