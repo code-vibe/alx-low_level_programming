@@ -10,7 +10,7 @@ What you should learn from this project:
 ## Helpful Links
 * [Debugging](https://en.wikipedia.org/wiki/Debugging)
 * [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
-* [Betty Coding Style](https://github.com/holbertonschool/Betty/wiki)
+
 
 ---
 
