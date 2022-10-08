@@ -6,7 +6,7 @@ What you should learn from this project:
 * What is debugging
 * What are some methods of debugging manually
 * How to read the error messages
-* 
+
 ## Helpful Links
 * [Debugging](https://en.wikipedia.org/wiki/Debugging)
 * [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
