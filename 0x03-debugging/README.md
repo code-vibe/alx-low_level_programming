@@ -14,7 +14,7 @@ What you should learn from this project:
 
 ---
 
-### 0. [Preprocessor](./0-preprocessor)
+### 0. [Multiple mains](./0-main.c)
 * Write a script that runs a C file through the preprocessor and save the result into another file.
 
 ### 1. [Compiler](./1-compiler)
