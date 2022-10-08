@@ -1,4 +1,4 @@
-# 0x00. C - Hello, World
+# 0x03. C - Debugging
 
 ## Description
 What you should learn from this project:
