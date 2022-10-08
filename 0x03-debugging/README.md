@@ -12,7 +12,6 @@ What you should learn from this project:
 * [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
 * [Betty Coding Style](https://github.com/holbertonschool/Betty/wiki)
 * [Hash-bang under the hood](https://twitter.com/unix_byte/status/1024147947393495040?s=21)
-* [Linus Torvalds on C vs. C++](http://harmful.cat-v.org/software/c++/linus)
 ---
 
 ### 0. [Preprocessor](./0-preprocessor)
