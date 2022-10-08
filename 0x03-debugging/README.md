@@ -20,7 +20,7 @@ What you should learn from this project:
 ### 1. [Like, comment, subscribe](./1-main.c)
 * Write a script that compiles a C file but does not link.
 
-### 2. [Assembler](./2-assembler)
+### 2. [2. 0 > 972?](./2-assembler)
 * Write a script that generates the assembly code of a C code and save it in an output file.
 
 ### 3. [Name](./3-name)
