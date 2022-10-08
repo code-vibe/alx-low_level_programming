@@ -20,8 +20,8 @@ What you should learn from this project:
 ### 1. [Like, comment, subscribe](./1-main.c)
 * Copy this main file. Comment out (don’t delete it!) the part of the code that is causing the output to go into an infinite loop.
 
-Don’t add or remove any lines of code, as we will be checking your line count. You are only allowed to comment out existing code.
-You do not have to compile with -Wall -Werror -Wextra -pedantic for this task.
+  Don’t add or remove any lines of code, as we will be checking your line count. You are only allowed to comment out existing code.
+  You do not have to compile with -Wall -Werror -Wextra -pedantic for this task.
 
 ### 2. [2. 0 > 972?](./2-largest_number.c)
 * This program prints the largest of three integers.
