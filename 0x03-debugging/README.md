@@ -17,7 +17,7 @@ What you should learn from this project:
 ### 0. [Multiple mains](./0-main.c)
 *  Create a file named 0-main.c. This file must test that the function positive_or_negative() gives the correct output when given a case of 0.
 
-### 1. [Like, comment, subscribe](./1-compiler)
+### 1. [Like, comment, subscribe](./1-main.c)
 * Write a script that compiles a C file but does not link.
 
 ### 2. [Assembler](./2-assembler)
