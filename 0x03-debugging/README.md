@@ -21,7 +21,8 @@ What you should learn from this project:
 * Write a script that compiles a C file but does not link.
 
 ### 2. [2. 0 > 972?](./2-largest_number.c)
-* Write a script that generates the assembly code of a C code and save it in an output file.
+* This program prints the largest of three integers.
+
 
 ### 3. [ Leap year](./3-print_remaining_days.c)
 * Write a script that compiles a C file and creates an executable named cisfun.
