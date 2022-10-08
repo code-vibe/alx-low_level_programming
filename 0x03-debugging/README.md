@@ -9,7 +9,7 @@ What you should learn from this project:
 * 
 ## Helpful Links
 * [Debugging](https://en.wikipedia.org/wiki/Debugging)
-* [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
+* [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
 * [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
 * [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
 * [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
