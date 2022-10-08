@@ -8,7 +8,7 @@ What you should learn from this project:
 * How to read the error messages
 * 
 ## Helpful Links
-* [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+* [Debugging](https://en.wikipedia.org/wiki/Debugging)
 * [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
 * [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
 * [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
