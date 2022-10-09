@@ -17,6 +17,7 @@ What you should learn from this project:
 * How to use the while loop
 * How to use variables with the while loop
 * How to print variables using printf
+* What is the ASCII character set
 
 
 ## Helpful Links
