@@ -16,6 +16,7 @@ What you should learn from this project:
 * How to print the values of variables of type char, int, unsigned int with printf
 * How to use the while loop
 * How to use variables with the while loop
+* How to print variables using printf
 
 
 ## Helpful Links
