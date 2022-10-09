@@ -18,6 +18,8 @@ What you should learn from this project:
 * How to use variables with the while loop
 * How to print variables using printf
 * What is the ASCII character set
+* What are the purpose of the gcc flags -m32 and -m64
+
 
 
 ## Helpful Links
