@@ -11,6 +11,7 @@ What you should learn from this project:
 * What are the boolean operators and how to use them
 * How to use the if, if ... else statements
 * How to use comments
+* How to declare variables of types char, int, unsigned int
 
 
 ## Helpful Links
