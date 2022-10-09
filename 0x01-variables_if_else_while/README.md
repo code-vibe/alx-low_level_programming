@@ -1,6 +1,12 @@
 # ALX SCHOOL - 0x01. C - Variables, if, else, while
 Using If, else and while statement in C programming
 
+## Description
+What you should learn from this project:
+
+* How to compile using gcc
+* What is the official Holberton C coding style and how to check your code with betty-style
+
 ## Helpful Links
 * [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
 * [integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
