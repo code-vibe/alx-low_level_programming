@@ -5,6 +5,7 @@ Using If, else and while statement in C programming
 What you should learn from this project:
 
 * What are the arithmetic operators and how to use them
+* What are the logical operators (sometimes called boolean operators) and how to use them
 * What is the official Holberton C coding style and how to check your code with betty-style
 
 ## Helpful Links
