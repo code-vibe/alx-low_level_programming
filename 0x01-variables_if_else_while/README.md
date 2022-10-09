@@ -10,6 +10,7 @@ What you should learn from this project:
 * What values are considered TRUE and FALSE in C
 * What are the boolean operators and how to use them
 * How to use the if, if ... else statements
+* How to use comments
 
 
 ## Helpful Links
