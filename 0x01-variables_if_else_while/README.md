@@ -34,7 +34,7 @@ What you should learn from this project:
 * [While loop](https://www.youtube.com/watch?v=Ju1LYO9pkaI)
 
 ## Description of Files
-<h6>0-positive_or_negative.c</h6>
+### 0. [0-positive_or_negative.c](./0-positive_or_negative.c)
 This program will assign a random number to the variable n each time it is executed
 <h6>1-last_digit.c</h6>
 This program will assign a random number to the variable n each time it is executed
