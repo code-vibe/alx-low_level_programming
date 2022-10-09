@@ -44,7 +44,7 @@ Write a program that prints the alphabet in lowercase, followed by a new line.
 Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 ### 4. [4-print_alphabt.c](./4-print_alphabt.c)
 Write a program that prints the alphabet in lowercase, followed by a new line.
-<h6>5-print_numbers.c</h6>
+### 5. [5-print_numbers.c](./5-print_numbers.c)
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 <h6>6-print_numberz.c</h6>
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
