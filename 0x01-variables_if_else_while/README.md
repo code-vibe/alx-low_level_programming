@@ -36,7 +36,7 @@ What you should learn from this project:
 ## Description of Files
 ### 0. [0-positive_or_negative.c](./0-positive_or_negative.c)
 This program will assign a random number to the variable n each time it is executed
-<h6>1-last_digit.c</h6>
+### 1. [1-last_digit.c](./1-last_digit.c)
 This program will assign a random number to the variable n each time it is executed
 <h6>2-print_alphabet.c</h6>
 Write a program that prints the alphabet in lowercase, followed by a new line.
