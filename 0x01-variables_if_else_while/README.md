@@ -38,7 +38,7 @@ What you should learn from this project:
 This program will assign a random number to the variable n each time it is executed
 ### 1. [1-last_digit.c](./1-last_digit.c)
 This program will assign a random number to the variable n each time it is executed
-<h6>2-print_alphabet.c</h6>
+### 2. .[-print_alphabet.c](./2-print_alphabet.c)
 Write a program that prints the alphabet in lowercase, followed by a new line.
 <h6>3-print_alphabets.c</h6>
 Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
