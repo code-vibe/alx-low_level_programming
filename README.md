@@ -30,8 +30,8 @@ This repository contains projects on the C programming language. The projects co
 and more!
 
 ## Requirements
-* Ubuntu 14.04 LTS
-* gcc 4.8.4 (-Wall, -Werror, -Wextra, and -pedantic flags)
+* Ubuntu 
+* gcc  (-Wall, -Werror, -Wextra, and -pedantic flags)
 
 ## Projects
 1. [0x00-hello_world](./0x00-hello_world)
