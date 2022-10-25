@@ -62,8 +62,6 @@ and more!
 24. [0x17-dynamic_libraries](./0x17-dynamic_libraries)
 25. [0x18-stacks_queues_lifo_fifo](https://github.com/birnbera/monty) ** Monty ByteCode Interpreter **
 26. [0x19-hash_tables](./0x19-hash_tables)
-27. [0x1A-sorting_algorithms](./0x1A-sorting_algorithms) ** Sorting algorithms project **
-
 
 
 ## Credits
