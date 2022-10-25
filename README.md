@@ -1,5 +1,3 @@
-<img src="https://www.holbertonschool.com/assets/holberton-logo-1cc451260ca3cd297def53f2250a9794810667c7ca7b5fa5879a569a457bf16f.png" width="300">
-
 # Low Level Programming & Algorithms
 
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/212/cisfun.jpg" width="500">
