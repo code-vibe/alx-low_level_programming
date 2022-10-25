@@ -63,7 +63,6 @@ and more!
 25. [0x18-stacks_queues_lifo_fifo](https://github.com/birnbera/monty) ** Monty ByteCode Interpreter **
 26. [0x19-hash_tables](./0x19-hash_tables)
 27. [0x1A-sorting_algorithms](./0x1A-sorting_algorithms) ** Sorting algorithms project **
-28. [0x1B-makefiles](./0x1B-makefiles)
 
 
 
