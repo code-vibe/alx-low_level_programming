@@ -64,4 +64,4 @@ and more!
 
 
 ## Credits
-Work is owned and maintained by Ebenezer Sam-Oladapo ([@code_vibez](https://twitter.com/code_vibez). Credits for group projects are displayed in the respective README.md files.
+Work is owned and maintained by Ebenezer Sam-Oladapo ([@code_vibez](https://twitter.com/code_vibez)). Credits for group projects are displayed in the respective README.md files.
